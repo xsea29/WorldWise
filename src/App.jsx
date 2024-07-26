@@ -9,7 +9,7 @@ import Login from "./pages/Login";
 import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
 import City from "./components/City";
-import Form from "./components/form";
+import Form from "./components/Form";
 import { CitiesProvider } from "./Context/CitiesContext";
 import { AuthProvider } from "./Context/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
